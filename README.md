@@ -1,13 +1,23 @@
-**Name**: LALITHA SHIVAPRIYA SRIRAMOJU                                                    
-**Company**: CODTECH IT SOLUTIONS
-**ID**: CT04DS7501
-**Domain**: Java Progamming
-**Duration**: August 25th - September 25th
+**Name**: LALITHA SHIVAPRIYA SRIRAMOJU      
+
+**Company**: CODTECH IT SOLUTIONS       
+
+**ID**: CT04DS7501                                                                             
+
+**Domain**: Java Progamming                                                                    
+
+**Duration**: August 25th - September 25th                                                   
+
 **Mentor**: 
 
 ### **Overview of the Java Calculator Application**
 
+**Project: SIMPLE CALCULATOR**
+
 This calculator application is designed using Java and Swing, specifically with `JFrame` for creating the graphical user interface (GUI). While the focus was initially on creating a more advanced calculator, the following describes a basic implementation, suitable for typical arithmetic operations.
+
+![Simple Calculator](https://github.com/user-attachments/assets/433567af-1241-47e7-ba91-555ae4772f68)
+
 
 #### **Features**
 - **Basic Arithmetic Operations:** The calculator supports addition, subtraction, multiplication, and division.
