@@ -8,7 +8,7 @@
 
 **Duration**: August 25th - September 25th                                                   
 
-**Mentor**: N. Santhosh
+**Mentor**: Mohammed Muzammil Ahmed
 
 ### **Overview of the Java Calculator Application**
 
