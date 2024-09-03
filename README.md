@@ -1,13 +1,8 @@
-**Name**: S.Lalitha Shivapriya                                                                 
-
-**Company**: COD-TECH IT SOLUTIONS
-
+**Name**: LALITHA SHIVAPRIYA SRIRAMOJU                                                    
+**Company**: CODTECH IT SOLUTIONS
 **ID**: CT04DS7501
-
 **Domain**: Java Progamming
-
 **Duration**: August 25th - September 25th
-
 **Mentor**: 
 
 ### **Overview of the Java Calculator Application**
